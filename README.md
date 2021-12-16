@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @xFumblez
-- 👀 I’m interested in game development.
+- 👋 Hi, I’m Matthew Taylor or @xFumblez.
+- 👀 I’m interested in game development and specifically gameplay programming.
 - 🌱 I’m currently learning OpenGL, Python/Pygame, and C#/Unity.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 I can be reached at ryan1matthew@gmail.com.
 
 <!---
 xFumblez/xFumblez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
