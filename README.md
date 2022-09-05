@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Taylor or @xFumblez.
-- 👀 I’m interested in game development and specifically gameplay and ai programming.
-- 🌱 I’m currently learning C#/Unity.
+- 👀 I’m interested in software engineering as a whole but love game programming.
+- 🌱 I’m currently learning 3D Math and OpenGL.
 - 📫 I can be reached at ryan1matthew@gmail.com.
 
 <!---
