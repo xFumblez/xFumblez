@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Taylor or @xFumblez.
-- 👀 I’m interested in software engineering as a whole but love game programming.
-- 🌱 I’m currently learning 3D Math and Unreal Engine 5.
+- 👀 I’m interested in Game Development and Artificial Intelligence.
+- 🌱 I’m currently taking time to work on my game Room Invaderz while learning more about AI and Machine Learning.
 - 📫 I can be reached at ryan1matthew@gmail.com.
 
 <!---
