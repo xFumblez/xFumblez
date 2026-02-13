@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Taylor or @xFumblez.
-- 👀 I’m interested in Game Development and Artificial Intelligence.
-- 🌱 I’m currently taking time to work on my game Room Invaderz while learning more about AI and Machine Learning.
+- 👀 I’m interested in Game Development and Backend Development.
+- 🌱 I’m currently taking time to work on my game Room Invaderz.
 - 📫 I can be reached at ryan1matthew@gmail.com.
 
 <!---
